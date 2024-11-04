@@ -71,3 +71,13 @@ This script leverages the Shodan API to scan for vulnerable services by executin
 
 ---
 
+
+#### Legal Disclaimer
+
+This tool is intended for educational, research, or authorized security testing purposes only. Unauthorized use of this tool to scan or access systems that you do not own or have explicit permission to test is strictly prohibited and may be illegal. Misuse of this tool can result in legal consequences.
+
+By using this tool, you agree to:
+- Use it only within the boundaries of the law and ethical guidelines.
+- Obtain appropriate permissions before scanning or accessing any third-party systems.
+
+The authors and contributors are not responsible for any misuse or damage caused by this tool.
